@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="name">Myp Profile</string>
+    <string name="age">120</string>
+
+    <string name="email">info@multi-touchenterprisekenya.co.ke</string>
+    <string name="folowering">Following</string>
+    <string name="Phone">0792294922</string>
+    <string name="group">www.multi-touchenterprisekenya.co.ke</string>
+    <string name="followers">Followers</string>
+</resources>
