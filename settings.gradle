@@ -1,0 +1,2 @@
+rootProject.name='Myp Profile'
+include ':app'
